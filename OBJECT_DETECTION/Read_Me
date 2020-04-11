@@ -1,3 +1,1 @@
-
-This project find an object based on a specified color and then tracks the object in a live video stream by drawing  a bounding box around
-the object. A demo is provided in this repository
+This is a computer vision color-based object tracking project using OpenCV.
